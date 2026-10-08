@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fizeraprocesstechnology.github.io/fizera-process-technology/sitemap.xml
